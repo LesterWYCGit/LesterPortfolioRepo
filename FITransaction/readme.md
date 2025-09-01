@@ -25,6 +25,7 @@ Account type balances with currency exposure
 Balance statistics (minimum, maximum, average) per account type
 
 Aggregated metrics saved into a single Excel file with multiple sheets for direct Power BI import
+
 ---
 ## Aggregated Excel File Sheets
 
@@ -39,6 +40,7 @@ Pivot table showing total debit and total credit per branch.
 
 Balance_Stats:
 Min, Max, and Average balances. Useful for risk & customer segmentation (e.g., high-value vs low-value accounts).
+
 ---
 ## Future Enhancements
 
