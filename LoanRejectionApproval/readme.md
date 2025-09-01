@@ -1,9 +1,9 @@
 # 🏦 Loan Application Data Validation Project 
 
 This project focuses on validating and cleaning a sample loan application dataset. It demonstrates how raw financial data can be checked for accuracy, completeness, and compliance with regulatory standards. The workflow emphasizes data wrangling, missing value handling, and standardized formatting to prepare the dataset for downstream analysis or decision-making.
-
+---
 Source of Data: [Here](https://www.kaggle.com/datasets/bsugiarto9/loan-status-prediction-with-added-nans) 
-
+---
 ## Key Steps
 
 Data Import
@@ -34,7 +34,7 @@ Outputs
 
 cleaned_loan_data.csv
 A validated dataset where incomplete applications are flagged and reordered, ready for use in compliance checks, analytics, or model training.
-
+---
 # Significance
 
 While no deep analytical insights are derived in this stage, the project highlights the importance of data validation in the financial sector. It ensures that:
